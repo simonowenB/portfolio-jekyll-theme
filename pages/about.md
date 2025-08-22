@@ -4,11 +4,14 @@ title: About
 permalink: /about
 ---
 
-# SIMON'S PORTFOLIO
+# SIMON OWEN A BOYLE
+  LOCATION - NORTH YORKS
+  EDUCATION - LANCASTER AND DURHAM UNIVERSITIES
+  INDUSTRY - ACCOUNTANCY AND PROPERTY
+  RECENT PROJECTS - PROPERTY DEVELOPMENT
 
-Isn't it great!
-
-I am a Chartered Management Accountant with advanced postgraduate qualifications in Organisational Consulting and Management. I’m passionate about helping organisations achieve their operational and strategic objectives by implementing robust financial controls, leveraging data analytics, and translating insights into clear, actionable narratives. I place strong emphasis on visual communication—using dashboards and data-driven storytelling—and believe in the power of collaborative partnerships to drive meaningful change
+GOALS & PROFESSIONAL INTERESTS
+I am a Chartered Management Accountant with advanced postgraduate qualifications in Organisational Consulting and Management. I’m passionate about helping organisations achieve their operational and strategic objectives by implementing robust financial controls, leveraging data analytics, and translating insights into clear, actionable narratives. I place strong emphasis on visual communication—using dashboards and data-driven storytelling—and believe in the power of collaborative partnerships to drive meaningful change.
 
 
 
